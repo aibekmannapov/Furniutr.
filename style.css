@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1280px;
   width: 100%;
   padding: 0 20px;
   margin: 0 auto;
@@ -429,7 +429,7 @@ body {
 }
 
 .tip {
-  width: 1242px;
+  width: 1200px;
   height: 2px;
   flex-shrink: 0;
   background: #282a30;
